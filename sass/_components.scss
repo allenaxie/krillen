@@ -279,8 +279,18 @@
     cursor: pointer;
     transition: all .2s;
 
+    & span {
+        margin-left: 3px;
+        transition: margin-left .2s;
+    }
+
     &:hover {
         color: var(--color-grey-dark-1);
+
+        // show all button
+        span {
+            margin-left: 8px;
+        }
     }
 
     &:focus {
