@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
 
-    &__input {
+    &__input { 
         // input elements doesn't inherit automatically
         font-family: inherit;
         font-size: inherit;
@@ -116,4 +116,32 @@
 }
 
 
+/////////////////////////////////
+// SIDE NAVIGATION
+.side-nav {
+
+    
+
+    &__item {
+
+    }
+
+    &__link {
+
+    }
+
+    &__icon {
+        width: 1.75rem;
+        height: 1.75rem;
+    }
+}
+
+/////////////////////////////////
+// LEGAL TEXT
+.legal {
+    font-size: 1.2rem;
+    color: var(--color-grey-light-4);
+    text-align: center;
+    padding: 2.5rem;
+}
 
