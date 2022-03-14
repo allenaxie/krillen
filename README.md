@@ -6,7 +6,7 @@
 
 ## 📝 Description
 
-Kame House is a front-end design page for an imaginary hotel, Kame House. The design was created by Jonas Schmedtmann, creator of the Udemy course: Advanced CSS and Sass.
+Kame House is a fully responsive front-end design page for an imaginary hotel, Kame House. The design was created by Jonas Schmedtmann, creator of the Udemy course: Advanced CSS and Sass.
 
 <img src="img/gif demo.gif?raw=true" width="500px">
 
